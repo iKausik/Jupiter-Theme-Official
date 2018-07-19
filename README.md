@@ -1,6 +1,7 @@
 ## Jupiter Theme for VS Code
-![js](images/js.png)
-![py](images/py.png)
+![JavaScript](images/js.png)
+<br>
+![Python](images/py.png)
 
 ### Installation
 1. Open Extensions sidebar panel in VS Code. **View → Extensions**
