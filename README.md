@@ -1,4 +1,4 @@
-## Jupiter Theme for VS Code
+# Jupiter Theme for VS Code
 
 ### JavaScript
 ![JavaScript](https://raw.githubusercontent.com/iKausik/Jupiter-Theme-Official/master/images/js.png)
@@ -35,4 +35,4 @@ If you want to to contribute on the theme or if you think you have a better way 
 This is a New Theme and it's possible that, might be you dislike something or you have any problem with something, if that is the case, please open an issue on github and submit your problem there.
 
 ### License
-MIT License
+[MIT License](https://github.com/iKausik/Jupiter-Theme-Official/blob/master/LICENSE) © Kausik Das
