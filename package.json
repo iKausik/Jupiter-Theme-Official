@@ -1,0 +1,36 @@
+{
+    "name": "theme-jupiter",
+    "displayName": "Jupiter Theme Official",
+    "description": "A Color-Theme for VS Code from out of the World",
+    "version": "0.1.0",
+    "publisher": "KausikDas",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jupiter Theme Official",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jupiter Theme Official-color-theme.json"
+            }
+        ]
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#000a1a",
+        "theme": "dark"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/vscode-wordcount.git"
+    },
+    "keywords": [
+        "VSCode", "Themes", "color-theme", "theme", "Jupiter"
+    ]
+}
