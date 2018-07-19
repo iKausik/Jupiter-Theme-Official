@@ -25,10 +25,10 @@
         "theme": "dark"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/Microsoft/vscode-wordcount/blob/master/README.md",
+    "homepage": "https://github.com/iKausik/Jupiter-Theme-Official/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-wordcount.git"
+        "url": "https://github.com/iKausik/Jupiter-Theme-Official.git"
     },
     "keywords": [
         "VSCode", "Themes", "color-theme", "theme", "Jupiter"
