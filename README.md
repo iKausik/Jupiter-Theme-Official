@@ -1,6 +1,9 @@
 ## Jupiter Theme for VS Code
+
+### JavaScript
 ![JavaScript](images/js.png)
-<br>
+
+### Python
 ![Python](images/py.png)
 
 ### Installation
